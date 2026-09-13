@@ -1,11 +1,10 @@
-# Hey, I'm Lucas 👋
+# i'm lucas!
 
-Student developer building towards a career in software engineering.
+a student developer building towards a career in software engineering.
 
-### 🔭 What I'm doing:
-- 🌐 Building with **HTML & CSS**
-- 🚀 Learning **JavaScript, Node.js, and Python**
-- 🌱 Exploring **Open Source**
+### what i'm doing:
+-  building with HTML & CSS
+-  learning JavaScript, Node.js, and Python
+-  exploring open source stuff
 
-### 📊 My GitHub Stats:
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasslucas&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vasslucas&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=vasslucas&show_icons=true&include_all_commits=true&theme=light_github)
